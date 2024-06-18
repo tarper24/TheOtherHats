@@ -3776,7 +3776,7 @@
             "reshashc": "151f1aeb0bcb1f9b406c563d0333e4a4",
             "resource": "alice.png"
         },
-       {
+        {
             "author": "Listoric",
             "climbresource": "frogprince_climb.png",
             "condition": "None",
@@ -3796,7 +3796,7 @@
             "reshashc": "6c62df51f999c0ce6e97c8ef3df05aad",
             "resource": "queen.png"
         },
-       {
+        {
             "bounce": true,
             "author": "Avlona",
             "backresource": "bat_back_bounce.png",
@@ -3841,7 +3841,7 @@
             "reshashc": "a1f560cdf5d6ebb608d2bebbe1ca3aab",
             "resource": "Redhead.png"
         },
-          {
+        {
             "author": "Yoshilias",
             "climbresource": "friteking_climb.png",
             "condition": "None",
@@ -3862,7 +3862,7 @@
             "reshashc": "516a472fb397c6178300a61372072a87",
             "resource": "Fluffy_adaptive.png"
         },
-         {
+        {
             "author": "Yun",
             "climbresource": "Tian_climb.png",
             "condition": "None",
@@ -3872,7 +3872,7 @@
             "reshashc": "f838ce85813d8640a1cf634dfd541f0c",
             "resource": "Tian.png"
         },
-         {
+        {
             "author": "Yun",
             "climbresource": "Yun_climb.png",
             "condition": "None",
@@ -3882,7 +3882,7 @@
             "reshashc": "9bfac7ae25e95569c06383978d27c3a2",
             "resource": "Yun.png"
         },
-         {
+        {
             "author": "Yun",
             "climbresource": "Alien_climb.png",
             "condition": "None",
@@ -3892,7 +3892,7 @@
             "reshashc": "a461f3b1ada2afedb10ce5dc162b99c2",
             "resource": "Alien.png"
         },
-         {
+        {
             "author": "Yun",
             "climbresource": "Beanie_climb.png",
             "condition": "None",
@@ -3912,7 +3912,7 @@
             "reshashc": "38ef716b19a16b9e16f026fcf6f9fe53",
             "resource": "Pearl.png"
         },
-         {
+        {
             "author": "Yun",
             "climbresource": "Galaxie_climb.png",
             "condition": "None",
@@ -3922,7 +3922,7 @@
             "reshashc": "fdb1d4b99ee01cf6d8620f14b1bfad58",
             "resource": "Galaxie.png"
         },
-         {
+        {
             "author": "K3ndo",
             "climbresource": "Spartan_climb.png",
             "condition": "None",
@@ -3932,5 +3932,77 @@
             "reshashc": "f4feb820f9a814726c3972dd69e590a8",
             "resource": "Spartan.png"
         },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Blood Rogue",
+            "package": "Furry Hats",
+            "reshasha": "4510e25d1b86f0d016da512054a64b5e",
+            "resource": "saborhatblood.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Bryoo",
+            "package": "Furry Hats",
+            "reshasha": "e97aa58adc81a4b83af2d64543a85c71",
+            "resource": "saborhatbryoo.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Markus",
+            "package": "Furry Hats",
+            "reshasha": "596e16a858e16e764e59ab6603255767",
+            "resource": "saborhatmarkus.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Nymos",
+            "package": "Furry Hats",
+            "reshasha": "b47ff6b88a9588823291b25f5f788cc9",
+            "resource": "saborhatnymos.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Orion",
+            "package": "Furry Hats",
+            "reshasha": "6ff9f589c16807bf5ff048b2b856617f",
+            "resource": "saborhatorion.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Potao",
+            "package": "Furry Hats",
+            "reshasha": "7dacf5bc577551864dbe70a5cb709e87",
+            "resource": "saborhatpotao.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Mishka",
+            "package": "Furry Hats",
+            "reshasha": "78b35d16096a7e66c2047fd6f1a12e5a",
+            "resource": "saborhatmishka.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Yves",
+            "package": "Furry Hats",
+            "reshasha": "57c4f7823be6642a8c6edd1beae82167",
+            "resource": "saborhatyves.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Zerda",
+            "package": "Furry Hats",
+            "reshasha": "3dd1d3454a51d738ee6e8867f1b8035b",
+            "resource": "saborhatzerda.png"
+        }
     ]
 }
