@@ -3994,12 +3994,10 @@
         },
         {
             "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
             "condition": "None",
             "name": "Mishka",
             "package": "Furry Hats",
             "reshasha": "dc905bcbeb532fee3bebfb7a58f9b39f",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
             "resource": "saborhatmishka2.png"
         },
         {
