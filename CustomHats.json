@@ -3934,90 +3934,74 @@
         },
         {
             "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
             "condition": "None",
             "name": "Blood Rogue",
             "package": "Furry Hats",
-            "reshasha": "4510e25d1b86f0d016da512054a64b5e",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "reshasha": "fab5bfd451e3972fbf5fe89c6d799fee",
             "resource": "saborhatblood.png"
         },
         {
             "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
             "condition": "None",
             "name": "Bryoo",
             "package": "Furry Hats",
-            "reshasha": "e97aa58adc81a4b83af2d64543a85c71",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "reshasha": "cb7cf23bbf0039a21d30b4ec3e0fc7e9",
             "resource": "saborhatbryoo.png"
         },
         {
             "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
             "condition": "None",
             "name": "Markus",
             "package": "Furry Hats",
-            "reshasha": "596e16a858e16e764e59ab6603255767",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "reshasha": "53b98c4aa020e5b9934105d72b28da73",
             "resource": "saborhatmarkus.png"
-        },
-        {
-            "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
-            "condition": "None",
-            "name": "Nymos",
-            "package": "Furry Hats",
-            "reshasha": "b47ff6b88a9588823291b25f5f788cc9",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
-            "resource": "saborhatnymos.png"
-        },
-        {
-            "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
-            "condition": "None",
-            "name": "Orion",
-            "package": "Furry Hats",
-            "reshasha": "6ff9f589c16807bf5ff048b2b856617f",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
-            "resource": "saborhatorion.png"
-        },
-        {
-            "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
-            "condition": "None",
-            "name": "Potao",
-            "package": "Furry Hats",
-            "reshasha": "7dacf5bc577551864dbe70a5cb709e87",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
-            "resource": "saborhatpotao.png"
         },
         {
             "author": "Sabortoof Teegar",
             "condition": "None",
             "name": "Mishka",
             "package": "Furry Hats",
-            "reshasha": "dc905bcbeb532fee3bebfb7a58f9b39f",
+            "reshasha": "8e1aba81738b54f62e61db1f91594195",
             "resource": "saborhatmishka2.png"
         },
         {
             "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
+            "condition": "None",
+            "name": "Nymos",
+            "package": "Furry Hats",
+            "reshasha": "16e52baa56db1923c001531099052cb7",
+            "resource": "saborhatnymos.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Orion",
+            "package": "Furry Hats",
+            "reshasha": "f6becf8270b604c787f14219206844a6",
+            "resource": "saborhatorion.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Potao",
+            "package": "Furry Hats",
+            "reshasha": "ce781195c6bc4f47327112a701bf1cbf",
+            "resource": "saborhatpotao.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
             "condition": "None",
             "name": "Yves",
             "package": "Furry Hats",
-            "reshasha": "57c4f7823be6642a8c6edd1beae82167",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "reshasha": "c3a6155c88306659dea0a108e3a2dff6",
             "resource": "saborhatyves.png"
         },
         {
             "author": "Sabortoof Teegar",
-            "climbresource": "Spartan_climb.png",
             "condition": "None",
             "name": "Zerda",
             "package": "Furry Hats",
-            "reshasha": "3dd1d3454a51d738ee6e8867f1b8035b",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "reshasha": "099ae99a9bc711da8d5ec413c374dc23",
             "resource": "saborhatzerda.png"
         }
     ]
