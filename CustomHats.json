@@ -3937,7 +3937,7 @@
             "condition": "None",
             "name": "Blood Rogue",
             "package": "Furry Hats",
-            "reshasha": "fab5bfd451e3972fbf5fe89c6d799fee",
+            "reshasha": "09c66b2f9fd6f5102e9939ee38808d29",
             "resource": "saborhatblood.png"
         },
         {
@@ -3945,7 +3945,7 @@
             "condition": "None",
             "name": "Bryoo",
             "package": "Furry Hats",
-            "reshasha": "cb7cf23bbf0039a21d30b4ec3e0fc7e9",
+            "reshasha": "5c2d777858623ba5e517bcb59635ae62",
             "resource": "saborhatbryoo.png"
         },
         {
@@ -3953,7 +3953,7 @@
             "condition": "None",
             "name": "Markus",
             "package": "Furry Hats",
-            "reshasha": "53b98c4aa020e5b9934105d72b28da73",
+            "reshasha": "53bf29023d179c8f7fa59a1243df4e0d",
             "resource": "saborhatmarkus.png"
         },
         {
@@ -3961,7 +3961,7 @@
             "condition": "None",
             "name": "Mishka",
             "package": "Furry Hats",
-            "reshasha": "8e1aba81738b54f62e61db1f91594195",
+            "reshasha": "ad0483e242153c1f7e479ea78319099c",
             "resource": "saborhatmishka.png"
         },
         {
@@ -3969,7 +3969,7 @@
             "condition": "None",
             "name": "Nymos",
             "package": "Furry Hats",
-            "reshasha": "16e52baa56db1923c001531099052cb7",
+            "reshasha": "c09285c8ffcc25663570656769845b19",
             "resource": "saborhatnymos.png"
         },
         {
@@ -3977,7 +3977,7 @@
             "condition": "None",
             "name": "Orion",
             "package": "Furry Hats",
-            "reshasha": "f6becf8270b604c787f14219206844a6",
+            "reshasha": "c9e8b1f5aad0c2e60f5e9ea21f79838d",
             "resource": "saborhatorion.png"
         },
         {
@@ -3985,7 +3985,7 @@
             "condition": "None",
             "name": "Potao",
             "package": "Furry Hats",
-            "reshasha": "ce781195c6bc4f47327112a701bf1cbf",
+            "reshasha": "b52f4ff65f6d32747d6e10ad241b3343",
             "resource": "saborhatpotao.png"
         },
         {
@@ -3993,7 +3993,7 @@
             "condition": "None",
             "name": "Yves",
             "package": "Furry Hats",
-            "reshasha": "c3a6155c88306659dea0a108e3a2dff6",
+            "reshasha": "6eb19bb69f2435ff5d7e824f15917372",
             "resource": "saborhatyves.png"
         },
         {
@@ -4001,7 +4001,7 @@
             "condition": "None",
             "name": "Zerda",
             "package": "Furry Hats",
-            "reshasha": "099ae99a9bc711da8d5ec413c374dc23",
+            "reshasha": "f6209d47fadc09eafd07a39450416997",
             "resource": "saborhatzerda.png"
         }
     ]
