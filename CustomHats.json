@@ -4003,6 +4003,46 @@
             "package": "Furry Hats",
             "reshasha": "862727fae251446dc7c90f8114696db4",
             "resource": "saborhatzerda.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Apollo",
+            "package": "Furry Hats",
+            "reshasha": "35b6c57fdd38fad117beb34f8b548dc8",
+            "resource": "saborhatapollo.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Ghost",
+            "package": "Furry Hats",
+            "reshasha": "21832f5e6e9c3391ef13f83b60221465",
+            "resource": "saborhatghost.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Neon",
+            "package": "Furry Hats",
+            "reshasha": "5ace2fb548d21d365edbeff7cdccf453",
+            "resource": "saborhatneon.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Pockets",
+            "package": "Furry Hats",
+            "reshasha": "89f2d939b8971f81c5a54195b1379e56",
+            "resource": "saborhatpockets.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Snarg",
+            "package": "Furry Hats",
+            "reshasha": "bc9832bff5b0cd0eaa46dfbf1fbbed61",
+            "resource": "saborhatsnarg.png"
         }
     ]
 }
