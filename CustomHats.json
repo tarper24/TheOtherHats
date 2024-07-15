@@ -4043,6 +4043,15 @@
             "package": "Furry Hats",
             "reshasha": "bc9832bff5b0cd0eaa46dfbf1fbbed61",
             "resource": "saborhatsnarg.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Abbi Hat",
+            "package": "Non-furry Hats",
+            "adaptive": true,
+            "reshasha": "bc9832bff5b0cd0eaa46dfbf1fbbed61",
+            "resource": "saborhatabbi.png"
         }
     ]
 }
