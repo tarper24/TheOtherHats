@@ -3938,7 +3938,9 @@
             "name": "Blood Rogue",
             "package": "Furry Hats",
             "reshasha": "8a784a32c84822149818129f76018816",
-            "resource": "saborhatblood.png"
+            "reshashf": "ebc64eca285326318d437807c1da72a1",
+            "resource": "saborhatblood.png",
+            "flipresource": "saborhatblood_flip.png"
         },
         {
             "author": "Sabortoof Teegar",
@@ -3946,7 +3948,9 @@
             "name": "Bryoo",
             "package": "Furry Hats",
             "reshasha": "274050faaa8e73c2cfdfb00f2934772c",
-            "resource": "saborhatbryoo.png"
+            "reshashf": "e81110e459731d61d17a5fea41abe104",
+            "resource": "saborhatbryoo.png",
+            "flipresource": "saborhatbryoo_flip.png"
         },
         {
             "author": "Sabortoof Teegar",
@@ -3970,7 +3974,9 @@
             "name": "Nymos",
             "package": "Furry Hats",
             "reshasha": "c5309e65410044572393df14478caee6",
-            "resource": "saborhatnymos.png"
+            "reshashf": "053e0c6231d3d1f73b38728c07e6e250",
+            "resource": "saborhatnymos.png",
+            "flipresource": "saborhatnymos_flip.png"
         },
         {
             "author": "Sabortoof Teegar",
@@ -3985,8 +3991,10 @@
             "condition": "None",
             "name": "Potao",
             "package": "Furry Hats",
-            "reshasha": "d9b1216f1ddc5098e9ed755497fdccd2",
-            "resource": "saborhatpotao.png"
+            "reshasha": "ad3362c5637bd684b6836d35ca89be7f",
+            "reshashf": "3a1ccf2010958841bb53a54fd19de4ab",
+            "resource": "saborhatpotao.png",
+            "flipresource": "saborhatpotao_flip.png"
         },
         {
             "author": "Sabortoof Teegar",
@@ -4010,7 +4018,9 @@
             "name": "Apollo",
             "package": "Furry Hats",
             "reshasha": "35b6c57fdd38fad117beb34f8b548dc8",
-            "resource": "saborhatapollo.png"
+            "reshashf": "87d438bdd6aec2891a58b28b32be98bb",
+            "resource": "saborhatapollo.png",
+            "flipresource": "saborhatapollo_flip.png"
         },
         {
             "author": "Sabortoof Teegar",
@@ -4052,6 +4062,34 @@
             "adaptive": true,
             "reshasha": "a789a705113f52a0b2e5b006674ee131",
             "resource": "saborhatabbi.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Doki",
+            "package": "Furry Hats",
+            "reshasha": "dd8356c372c94861c49695de6c18c10a",
+            "resource": "saborhatdoki.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Morado",
+            "package": "Furry Hats",
+            "reshasha": "d9dc9fca85d02fd47d3c49ea50ff15eb",
+            "reshashf": "053e0c6231d3d1f73b38728c07e6e250",
+            "resource": "saborhatmorado.png",
+            "flipresource": "saborhatmorado_flip.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Wiktoria",
+            "package": "Furry Hats",
+            "reshasha": "826ef61794c7683b6c2b5762c9fe6165",
+            "reshashf": "b9bc348de7f2a5b3fefe2f746a53a208",
+            "resource": "saborhatwiktoria.png",
+            "flipresource": "saborhatwiktoria_flip.png"
         }
     ]
 }
